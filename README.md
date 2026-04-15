@@ -1,4 +1,4 @@
-# -veo-alma
+# veo-alma
 
 Este circuito se arma con residuos informáticos reutilizados.
 
